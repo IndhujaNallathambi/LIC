@@ -1,6 +1,10 @@
-hello world indhu!!!
 
-i learned git commands very much.
-1.git init
-2.git add
-3.git commit
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>ok ahead, we will continue.</h1>
+
+</body>
+</html>
+
